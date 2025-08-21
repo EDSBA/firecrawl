@@ -76,7 +76,7 @@ To use the API, you need to sign up on [Firecrawl](https://firecrawl.dev) and ge
 - [**Search**](#search): search the web and get full content from results
 - [**Extract**](#extract): get structured data from single page, multiple pages or entire websites with AI.
 
-### Powerful Capabilities
+### Powerful Capabilities!!
 - **LLM-ready formats**: markdown, structured data, screenshot, HTML, links, metadata
 - **The hard stuff**: proxies, anti-bot mechanisms, dynamic content (js-rendered), output parsing, orchestration
 - **Customizability**: exclude tags, crawl behind auth walls with custom headers, max crawl depth, etc...
